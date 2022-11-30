@@ -1,0 +1,22 @@
+h3 {
+  color: blue;
+  text-align: center;
+}
+
+.avatar {
+  width: 38px;
+
+  height: 34px;
+
+  text-align: center;
+
+  border: 1px solid black;
+
+  background-color: #712cf9;
+
+  color: white;
+}
+
+.avatar-title {
+  margin-top: 2px;
+}
